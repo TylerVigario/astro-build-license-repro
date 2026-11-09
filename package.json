@@ -1,0 +1,12 @@
+{
+  "name": "astro-build-license-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "7.4.5",
+    "clsx": "2.1.1"
+  }
+}
